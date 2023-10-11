@@ -1,2 +1,3 @@
 # github-intro
-just files to learn github
+
+this is an example created to explain github
